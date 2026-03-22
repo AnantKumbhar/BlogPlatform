@@ -1,0 +1,15 @@
+C:\Projects\BlogPlatform\BlogPlatform.Application\bin\Debug\net10.0\BlogPlatform.Application.deps.json
+C:\Projects\BlogPlatform\BlogPlatform.Application\bin\Debug\net10.0\BlogPlatform.Application.dll
+C:\Projects\BlogPlatform\BlogPlatform.Application\bin\Debug\net10.0\BlogPlatform.Application.pdb
+C:\Projects\BlogPlatform\BlogPlatform.Application\bin\Debug\net10.0\BlogPlatform.Domain.dll
+C:\Projects\BlogPlatform\BlogPlatform.Application\bin\Debug\net10.0\BlogPlatform.Domain.pdb
+C:\Projects\BlogPlatform\BlogPlatform.Application\obj\Debug\net10.0\BlogPlatform.Application.csproj.AssemblyReference.cache
+C:\Projects\BlogPlatform\BlogPlatform.Application\obj\Debug\net10.0\BlogPlatform.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\BlogPlatform\BlogPlatform.Application\obj\Debug\net10.0\BlogPlatform.Application.AssemblyInfoInputs.cache
+C:\Projects\BlogPlatform\BlogPlatform.Application\obj\Debug\net10.0\BlogPlatform.Application.AssemblyInfo.cs
+C:\Projects\BlogPlatform\BlogPlatform.Application\obj\Debug\net10.0\BlogPlatform.Application.csproj.CoreCompileInputs.cache
+C:\Projects\BlogPlatform\BlogPlatform.Application\obj\Debug\net10.0\BlogPlat.F02B26B9.Up2Date
+C:\Projects\BlogPlatform\BlogPlatform.Application\obj\Debug\net10.0\BlogPlatform.Application.dll
+C:\Projects\BlogPlatform\BlogPlatform.Application\obj\Debug\net10.0\refint\BlogPlatform.Application.dll
+C:\Projects\BlogPlatform\BlogPlatform.Application\obj\Debug\net10.0\BlogPlatform.Application.pdb
+C:\Projects\BlogPlatform\BlogPlatform.Application\obj\Debug\net10.0\ref\BlogPlatform.Application.dll

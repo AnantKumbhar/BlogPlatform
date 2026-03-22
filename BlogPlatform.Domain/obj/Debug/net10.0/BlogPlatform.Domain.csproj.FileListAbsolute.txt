@@ -1,0 +1,11 @@
+C:\Projects\BlogPlatform\BlogPlatform.Domain\bin\Debug\net10.0\BlogPlatform.Domain.deps.json
+C:\Projects\BlogPlatform\BlogPlatform.Domain\bin\Debug\net10.0\BlogPlatform.Domain.dll
+C:\Projects\BlogPlatform\BlogPlatform.Domain\bin\Debug\net10.0\BlogPlatform.Domain.pdb
+C:\Projects\BlogPlatform\BlogPlatform.Domain\obj\Debug\net10.0\BlogPlatform.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\BlogPlatform\BlogPlatform.Domain\obj\Debug\net10.0\BlogPlatform.Domain.AssemblyInfoInputs.cache
+C:\Projects\BlogPlatform\BlogPlatform.Domain\obj\Debug\net10.0\BlogPlatform.Domain.AssemblyInfo.cs
+C:\Projects\BlogPlatform\BlogPlatform.Domain\obj\Debug\net10.0\BlogPlatform.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\BlogPlatform\BlogPlatform.Domain\obj\Debug\net10.0\BlogPlatform.Domain.dll
+C:\Projects\BlogPlatform\BlogPlatform.Domain\obj\Debug\net10.0\refint\BlogPlatform.Domain.dll
+C:\Projects\BlogPlatform\BlogPlatform.Domain\obj\Debug\net10.0\BlogPlatform.Domain.pdb
+C:\Projects\BlogPlatform\BlogPlatform.Domain\obj\Debug\net10.0\ref\BlogPlatform.Domain.dll
