@@ -5,6 +5,7 @@ C:\Projects\BlogPlatform\BlogPlatform.Domain\obj\Debug\net10.0\BlogPlatform.Doma
 C:\Projects\BlogPlatform\BlogPlatform.Domain\obj\Debug\net10.0\BlogPlatform.Domain.AssemblyInfoInputs.cache
 C:\Projects\BlogPlatform\BlogPlatform.Domain\obj\Debug\net10.0\BlogPlatform.Domain.AssemblyInfo.cs
 C:\Projects\BlogPlatform\BlogPlatform.Domain\obj\Debug\net10.0\BlogPlatform.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\BlogPlatform\BlogPlatform.Domain\obj\Debug\net10.0\BlogPlatform.Domain.sourcelink.json
 C:\Projects\BlogPlatform\BlogPlatform.Domain\obj\Debug\net10.0\BlogPlatform.Domain.dll
 C:\Projects\BlogPlatform\BlogPlatform.Domain\obj\Debug\net10.0\refint\BlogPlatform.Domain.dll
 C:\Projects\BlogPlatform\BlogPlatform.Domain\obj\Debug\net10.0\BlogPlatform.Domain.pdb

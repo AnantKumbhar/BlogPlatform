@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "BnzAo0Uoywk=",
+  "dgSpecHash": "L58eB/xawT8=",
   "success": true,
   "projectFilePath": "C:\\Projects\\BlogPlatform\\BlogPlatform.Infrastructure\\BlogPlatform.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\anant\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\anant\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",
+    "C:\\Users\\anant\\.nuget\\packages\\bcrypt.net-next\\4.1.0\\bcrypt.net-next.4.1.0.nupkg.sha512",
     "C:\\Users\\anant\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\anant\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
     "C:\\Users\\anant\\.nuget\\packages\\microsoft.bcl.cryptography\\9.0.4\\microsoft.bcl.cryptography.9.0.4.nupkg.sha512",
