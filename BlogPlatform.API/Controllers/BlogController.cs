@@ -8,7 +8,6 @@ namespace BlogPlatform.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize]
     public class BlogController : ControllerBase
     {
         private readonly IBlogService _blogService;
@@ -23,6 +22,7 @@ namespace BlogPlatform.API.Controllers
             return int.Parse(User.FindFirst(ClaimTypes.NameIdentifier)?.Value);
         }
 
+        [Authorize]
         [HttpPost]
         public async Task<IActionResult> CreateBlog(CreateBlogDto dto)
         {
@@ -38,6 +38,7 @@ namespace BlogPlatform.API.Controllers
             return Ok(blogs);
         }
 
+        [Authorize]
         [HttpGet("my")]
         public async Task<IActionResult> GetMyBlogs()
         {
@@ -46,6 +47,7 @@ namespace BlogPlatform.API.Controllers
             return Ok(blogs);
         }
 
+        [Authorize]
         [HttpPut("{id}")]
         public async Task<IActionResult> UpdateBlog(int id, CreateBlogDto dto)
         {
@@ -55,6 +57,7 @@ namespace BlogPlatform.API.Controllers
             return Ok(result);
         }
 
+        [Authorize]
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteBlog(int id)
         {
