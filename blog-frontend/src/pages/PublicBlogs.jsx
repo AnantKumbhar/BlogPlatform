@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import api from "../api/axios";
 import { useNavigate } from "react-router-dom";
+
 function PublicBlogs() {
   const [blogs, setBlogs] = useState([]);
     const navigate = useNavigate();
