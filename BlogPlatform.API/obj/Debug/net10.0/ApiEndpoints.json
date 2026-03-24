@@ -69,6 +69,22 @@
   },
   {
     "ContainingType": "BlogPlatform.API.Controllers.BlogController",
+    "Method": "GetBlogById",
+    "RelativePath": "api/Blog/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BlogPlatform.API.Controllers.BlogController",
     "Method": "UpdateBlog",
     "RelativePath": "api/Blog/{id}",
     "HttpMethod": "PUT",

@@ -11,5 +11,7 @@ namespace BlogPlatform.Application.DTOs.Blog
         public string ShortDescription { get; set; }
         public string AuthorName { get; set; }
         public string CategoryName { get; set; }
+
+        public int AuthorId { get; set; }
     }
 }

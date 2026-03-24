@@ -10,7 +10,7 @@ namespace BlogPlatform.Application.Interfaces
         Task<string> CreateBlogAsync(CreateBlogDto dto, int userId);
         Task<List<BlogResponseDto>> GetAllBlogsAsync();
         Task<List<BlogResponseDto>> GetMyBlogsAsync(int userId);
-
+        Task<CreateBlogDto> GetBlogByIdAsync(int id);
         Task<string> UpdateBlogAsync(int blogId, CreateBlogDto dto, int userId);
         Task<string> DeleteBlogAsync(int blogId, int userId);
     }

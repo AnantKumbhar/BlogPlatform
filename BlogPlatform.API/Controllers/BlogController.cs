@@ -48,6 +48,15 @@ namespace BlogPlatform.API.Controllers
         }
 
         [Authorize]
+        [HttpGet("{id}")]
+        public async Task<IActionResult> GetBlogById(int id)
+        {
+            var blog = await _blogService.GetBlogByIdAsync(id);
+            return Ok(blog);
+        }
+
+
+        [Authorize]
         [HttpPut("{id}")]
         public async Task<IActionResult> UpdateBlog(int id, CreateBlogDto dto)
         {

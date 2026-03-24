@@ -45,7 +45,8 @@ namespace BlogPlatform.Infrastructure.Services
                     Title = x.Title,
                     ShortDescription = x.ShortDescription,
                     AuthorName = x.Author.Username,
-                    CategoryName = x.Category.Name
+                    CategoryName = x.Category.Name,
+                    AuthorId = x.AuthorId
                 }).ToListAsync();
         }
 
@@ -60,9 +61,29 @@ namespace BlogPlatform.Infrastructure.Services
                     Title = x.Title,
                     ShortDescription = x.ShortDescription,
                     AuthorName = x.Author.Username,
-                    CategoryName = x.Category.Name
+                    CategoryName = x.Category.Name, 
+                    AuthorId = x.AuthorId
                 }).ToListAsync();
         }
+
+        public async Task<CreateBlogDto> GetBlogByIdAsync(int id)
+        {
+            var blog = await _context.Blogs.FindAsync(id);
+
+            if (blog == null)
+                throw new Exception("Blog not found");
+
+            return new CreateBlogDto
+            {
+                Title = blog.Title,
+                Content = blog.Content,
+                ShortDescription = blog.ShortDescription,
+                Slug = blog.Slug,
+                CategoryId = blog.CategoryId
+            };
+        }
+
+
 
         public async Task<string> UpdateBlogAsync(int blogId, CreateBlogDto dto, int userId)
         {
